@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">5.1C</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="arcDescription">The Arc de Triomphe is a famous monument located in Paris, France. This Landmark is located on the western end of the Champs-Elysees. It honours the lost soldiers from the French revolutionary war and Napoleonic wars</string>
+    <string name="sohDescription">The Sydney Opera House is a famous performing arts centre located at the Sydney Harbour. Designed by danish architect Jorn Utzon. This is one of the foremost attractions of the capital city of New South Wales</string>
+    <string name="colDescription">The Colosseum is an oval amphitheatre in the city of Rome, Italy. The site used to hold all forms of spectacles from gladiatorial battles to mock sea battles. </string>
+    <string name="petraDescription">Petra is a historic city in southern Jordan. The city is carved into the rock and is also famous for its water conduit system. Petra is also called the "Rose City" due to the colour of the stone from which it is carved. </string>
+</resources>
